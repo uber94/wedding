@@ -184,10 +184,10 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Ram and Antara's Wedding",
+            title: "Mariage de Xaverie et Hubert",
 
             // Event start date
-            start: new Date('Nov 27, 2017 10:00'),
+            start: new Date('Aug 19, 2023 10:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
