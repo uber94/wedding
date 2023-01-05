@@ -99,8 +99,6 @@ window.onload = function() {
 			'icon-refresh' : '&#xe05a;',
 			'icon-happy' : '&#xe05b;',
 			'icon-sad' : '&#xe05c;',
-			'icon-facebook' : '&#xe05d;',
-			'icon-twitter' : '&#xe05e;',
 			'icon-googleplus' : '&#xe05f;',
 			'icon-rss' : '&#xe060;',
 			'icon-tumblr' : '&#xe061;',
